@@ -1,5 +1,5 @@
 # Troncal_clase-2
-##HOLA
-###subtitulo
+## HOLA
+### subtitulo
 
 Github cheatsheet
