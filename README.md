@@ -1,5 +1,5 @@
-# Troncal_clase-2
+# Troncal_Diseño y visualización de información 
 ## HOLA
-### subtitulo
+### Github cheatsheet
 
-Github cheatsheet
+
